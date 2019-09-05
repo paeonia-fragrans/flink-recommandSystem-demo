@@ -1,5 +1,5 @@
 # 商品实时推荐系统
-
+### 项目转自：https://github.com/CheckChe0803/flink-recommandSystem-demo.git
 ### 1. 系统架构  v2.0
 
 - **1.1 系统架构图**
